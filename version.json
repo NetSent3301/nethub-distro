@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "release_date": "2026-05-18",
+  "min_version": "1.5.0",
+  "download_url": "https://tu-sitio.com/nethub/NetHUB_Ultimate_2.0.0.zip",
+  "changelog": [
+    "Sistema de modulos personalizado (modules/custom/)",
+    "Hashing de contraseñas con bcrypt",
+    "Mejora de seguridad en sandbox de codigo",
+    "Soporte multiplataforma para disk_usage",
+    "Nuevos temas de color y personalizacion",
+    "Correccion de errores menores"
+  ],
+  "mandatory": false,
+  "message": "Nueva version disponible con mejoras de seguridad y modulos personalizados."
+}
