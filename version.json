@@ -1,0 +1,10 @@
+{
+  "version": "2.1.1",
+  "release_date": "2026",
+  "min_version": "2.0.0",
+  "download_url": "https://github.com/NetSent3301/nethub-distro/releases/download/v2.1.1/NetHUB_Ultimate_2.1.1.zip",
+  "changelog": [
+  ],
+  "mandatory": true,
+  "message": "Nueva version 2.1.1 disponible."
+}

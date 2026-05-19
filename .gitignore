@@ -1,0 +1,8 @@
+# User data (nunca commitear)
+users.json
+config.json
+chat_history.json
+notes/
+*.key
+*.pem
+google_oauth_client.json
